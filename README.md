@@ -6,5 +6,4 @@ This repository contains all of the notes taken by [Devan](https://github.com/De
 
 ### Table of Contents
 
-_[Week 1](/Week_1)
-_[Day 1](/Week_1/Day_1)
+\*[Week 1](/Week_1) 1.[Day 1](/Week_1/Day_1)
